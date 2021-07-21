@@ -25,6 +25,6 @@ Repositório com case proposto pela formação Santander Coders Web Full Stack
 - [x] Possibilitar a usuário armazenar cidades preferidas/padrão
 - [x] Melhorar interface para web
 
-#Resultado da minha aplicação
+<h2><strong>Resultado da minha aplicação</strong></h2>
 
 <img src="https://github.com/aremartins/weather-react/blob/main/src/Vite%20App.gif?raw=true" />
